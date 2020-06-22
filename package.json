@@ -1,0 +1,28 @@
+{
+  "name": "jahbot",
+  "version": "1.0.0",
+  "description": "JahBot 1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jah",
+    "Bot",
+    "JahBot",
+    "Sex"
+  ],
+  "author": "Pantsthaniel",
+  "license": "ISC",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "async": "^3.2.0",
+    "async-kit": "^2.2.4",
+    "discord.js": "^12.2.0",
+    "long": "^4.0.0",
+    "node-fetch": "^2.6.0",
+    "querystring": "^0.2.0",
+    "setimmediate": "^1.0.5",
+    "snekfetch": "^4.0.4"
+  }
+}
